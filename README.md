@@ -4,7 +4,11 @@
 ## Goal behind reps.
 
 The idea behind this repository is to compile a list of simple *reps* in each respective language. 
-This will allow us to easily pull tested and well thought out examples for students when they need them.  This can be especially beneficial for students who need to get more comfortable looking up methods or those struggling with syntax.  Also for students that are put on *catch-up* plans this would be a great resource for those students and would help guide them in the process of problem solving as they are becoming more comfortable with the language at hand.  
+This will allow us to easily pull tested and well thought out examples for students when they need them.  
+
+### Benefits
+- This can be especially beneficial for students who need to get more comfortable looking up methods or those struggling with syntax.  
+- For students that are put on *catch-up* plans, this would be a great resource for those students and would help guide them in the process of problem solving as they are becoming more comfortable with the language at hand.  
 
 
 ### Question format 
