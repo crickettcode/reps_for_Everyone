@@ -24,18 +24,18 @@ This will allow us to easily pull tested and well thought out examples for stude
   1a.  Remember that when building a function, you want to use declare a function with a name that accepts arguments. So for building our function called lengths that accepts an array of strings, it might look something like:
 
 
-`// declare function named "lengths"
-// that accepts a arguments named "arrayOfStrings"
-function lengths(arrayOfStrings) {
+    `// declare function named "lengths"
+    // that accepts a arguments named "arrayOfStrings"
+    function lengths(arrayOfStrings) {
 
-  // we can log out our "arrayOfStrings"
-  console.log(arrayOfStrings);
+      // we can log out our "arrayOfStrings"
+      console.log(arrayOfStrings);
 
-  // now, we want to "return" something... but what?
+      // now, we want to "return" something... but what?
 
-  return whateverVariableYouWantToReturnHere;
+      return whateverVariableYouWantToReturnHere;
 
-}`
+    }`
 
 2.  reference: MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
 
