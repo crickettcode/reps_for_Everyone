@@ -1,6 +1,5 @@
 # reps_for_Everyone
 
-Hello Everybody, Is there a repository in which we have a compiled list of simple Reps in Javascript or Ruby.  If not I think it would be a good idea to have a bank in which we can share our favorite reps questions for students.  This would be very beneficial especially in the case of providing extra work for struggling students that need to get more comfortable looking up methods and those struggling with syntax.  Each problem could compose of the question, links to documentation, and possible helpful questions to ask stack overflow to help them start thinking about how to ask a question correctly.
 
 ## Goal behind reps.
 
