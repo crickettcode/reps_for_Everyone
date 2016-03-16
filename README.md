@@ -24,7 +24,7 @@ This will allow us to easily pull tested and well thought out examples for stude
   1a.  Remember that when building a function, you want to use declare a function with a name that accepts arguments. So for building our function called lengths that accepts an array of strings, it might look something like:
 
 
-    `// declare function named "lengths"
+    // declare function named "lengths"
     // that accepts a arguments named "arrayOfStrings"
     function lengths(arrayOfStrings) {
 
@@ -35,7 +35,7 @@ This will allow us to easily pull tested and well thought out examples for stude
 
       return whateverVariableYouWantToReturnHere;
 
-    }`
+    }
 
 2.  reference: MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
 
@@ -46,7 +46,7 @@ This will allow us to easily pull tested and well thought out examples for stude
 4.  Example of how the answer should look
 
 `var words = ["hello", "what", "is", "up", "dude"]
-lengths(words)  # => [5, 4, 2, 2, 4]`
+  lengths(words)  # => [5, 4, 2, 2, 4]`
 
 
 
